@@ -21,21 +21,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Desmistificando as IAs Generativas
+
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um e-book de 8 páginas explorando um ramo da inteligência artificial focado na criação de novos conteúdos a partir de dados existentes.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei apenas o ChatGPT para revisar minha pesquisa, não foi gerado imagens, apenas texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo simples apenas com texto, porem muito bem explicado.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar este e-book mostrou o potencial criativo das IAs generativas e como elas são projetadas para criar algo novo: seja um texto, uma imagem, música, ou até mesmo vídeos.
 ```
 
 ### Exemplos e Insigths
